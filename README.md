@@ -14,6 +14,7 @@
 </br>
 7.Run the script http://localhost/stockmanagementsystem 
 </br>
-username: admin
+<b>username: admin</b>
+</br>
 password: password
 <h1>
